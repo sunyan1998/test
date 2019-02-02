@@ -9,7 +9,7 @@ public class a{
 ```
 
 ```javascript
-alert("Hello World!");
+alert("Hello World2!");
 ```
 
 ```html
